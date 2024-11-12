@@ -1,0 +1,500 @@
+epoch 0  | loss: 3558.32349| train_rmsle: 3.94985 | train_mae: 61.54289| train_rmse: 62.07012| train_mse: 3852.7  | valid_rmsle: 3.92861 | valid_mae: 61.47174| valid_rmse: 62.00952| valid_mse: 3845.18015|  0:00:00s
+epoch 1  | loss: 3520.48413| train_rmsle: 3.86846 | train_mae: 61.43468| train_rmse: 61.96173| train_mse: 3839.25641| valid_rmsle: 3.85623 | valid_mae: 61.37786| valid_rmse: 61.91283| valid_mse: 3833.19829|  0:00:00s
+epoch 2  | loss: 3487.93701| train_rmsle: 3.8206  | train_mae: 61.37461| train_rmse: 61.90275| train_mse: 3831.95037| valid_rmsle: 3.80487 | valid_mae: 61.31432| valid_rmse: 61.85273| valid_mse: 3825.76082|  0:00:00s
+epoch 3  | loss: 3519.84058| train_rmsle: 3.76726 | train_mae: 61.30101| train_rmse: 61.82823| train_mse: 3822.72994| valid_rmsle: 3.74213 | valid_mae: 61.22863| valid_rmse: 61.76782| valid_mse: 3815.26383|  0:00:00s
+epoch 4  | loss: 3481.62109| train_rmsle: 3.70881 | train_mae: 61.21152| train_rmse: 61.73898| train_mse: 3811.70173| valid_rmsle: 3.68841 | valid_mae: 61.14589| valid_rmse: 61.68613| valid_mse: 3805.1791|  0:00:00s
+epoch 5  | loss: 3445.98608| train_rmsle: 3.64244 | train_mae: 61.10287| train_rmse: 61.62984| train_mse: 3798.23712| valid_rmsle: 3.63147 | valid_mae: 61.05165| valid_rmse: 61.59262| valid_mse: 3793.65106|  0:00:01s
+epoch 6  | loss: 3426.96338| train_rmsle: 3.59935 | train_mae: 61.02799| train_rmse: 61.55545| train_mse: 3789.07348| valid_rmsle: 3.57585 | valid_mae: 60.94931| valid_rmse: 61.49328| valid_mse: 3781.42337|  0:00:01s
+epoch 7  | loss: 3383.14453| train_rmsle: 3.55751 | train_mae: 60.95168| train_rmse: 61.48042| train_mse: 3779.84224| valid_rmsle: 3.55522 | valid_mae: 60.91485| valid_rmse: 61.45553| valid_mse: 3776.78205|  0:00:01s
+epoch 8  | loss: 3422.07104| train_rmsle: 3.50033 | train_mae: 60.84077| train_rmse: 61.37154| train_mse: 3766.46637| valid_rmsle: 3.48776 | valid_mae: 60.7773 | valid_rmse: 61.32021| valid_mse: 3760.16815|  0:00:01s
+epoch 9  | loss: 3335.10327| train_rmsle: 3.4226  | train_mae: 60.6776 | train_rmse: 61.20823| train_mse: 3746.44736| valid_rmsle: 3.40917 | valid_mae: 60.61961| valid_rmse: 61.16099| valid_mse: 3740.6671|  0:00:01s
+epoch 10 | loss: 3342.23145| train_rmsle: 3.37043 | train_mae: 60.56137| train_rmse: 61.0932 | train_mse: 3732.37876| valid_rmsle: 3.34574 | valid_mae: 60.48727| valid_rmse: 61.0265 | valid_mse: 3724.23349|  0:00:01s
+epoch 11 | loss: 3350.59912| train_rmsle: 3.27406 | train_mae: 60.33503| train_rmse: 60.86928| train_mse: 3705.06947| valid_rmsle: 3.27672 | valid_mae: 60.31581| valid_rmse: 60.85913| valid_mse: 3703.8342|  0:00:01s
+epoch 12 | loss: 3314.12964| train_rmsle: 3.13903 | train_mae: 59.95681| train_rmse: 60.4974 | train_mse: 3659.93559| valid_rmsle: 3.15745 | valid_mae: 59.9671 | valid_rmse: 60.52   | valid_mse: 3662.67009|  0:00:01s
+epoch 13 | loss: 3291.7644| train_rmsle: 2.98902 | train_mae: 59.46264| train_rmse: 60.01379| train_mse: 3601.65492| valid_rmsle: 3.02821 | valid_mae: 59.54329| valid_rmse: 60.10661| valid_mse: 3612.80461|  0:00:01s
+epoch 14 | loss: 3235.37012| train_rmsle: 2.89305 | train_mae: 59.10688| train_rmse: 59.66664| train_mse: 3560.10769| valid_rmsle: 2.94365 | valid_mae: 59.22394| valid_rmse: 59.79322| valid_mse: 3575.22975|  0:00:02s
+epoch 15 | loss: 3280.1416| train_rmsle: 2.78533 | train_mae: 58.61847| train_rmse: 59.19264| train_mse: 3503.76858| valid_rmsle: 2.84278 | valid_mae: 58.7734 | valid_rmse: 59.35425| valid_mse: 3522.92695|  0:00:02s
+epoch 16 | loss: 3233.93823| train_rmsle: 2.66578 | train_mae: 58.08034| train_rmse: 58.67184| train_mse: 3442.38528| valid_rmsle: 2.6978  | valid_mae: 58.11478| valid_rmse: 58.70507| valid_mse: 3446.28478|  0:00:02s
+epoch 17 | loss: 3201.58105| train_rmsle: 2.55497 | train_mae: 57.46663| train_rmse: 58.07507| train_mse: 3372.71339| valid_rmsle: 2.56782 | valid_mae: 57.41122| valid_rmse: 58.03031| valid_mse: 3367.51692|  0:00:02s
+epoch 18 | loss: 3196.86768| train_rmsle: 2.46512 | train_mae: 56.95384| train_rmse: 57.57215| train_mse: 3314.5528| valid_rmsle: 2.41475 | valid_mae: 56.59006| valid_rmse: 57.22744| valid_mse: 3274.98003|  0:00:02s
+epoch 19 | loss: 3150.23486| train_rmsle: 2.36271 | train_mae: 56.29142| train_rmse: 56.92707| train_mse: 3240.69123| valid_rmsle: 2.29032 | valid_mae: 55.74715| valid_rmse: 56.40751| valid_mse: 3181.80672|  0:00:02s
+epoch 20 | loss: 3152.00269| train_rmsle: 2.23517 | train_mae: 55.3427 | train_rmse: 55.99934| train_mse: 3135.92574| valid_rmsle: 2.16566 | valid_mae: 54.73844| valid_rmse: 55.40439| valid_mse: 3069.64669|  0:00:02s
+epoch 21 | loss: 3129.97217| train_rmsle: 2.21024 | train_mae: 54.98859| train_rmse: 55.66787| train_mse: 3098.91138| valid_rmsle: 2.08359 | valid_mae: 53.87853| valid_rmse: 54.57426| valid_mse: 2978.34981|  0:00:02s
+epoch 22 | loss: 3134.57593| train_rmsle: 2.1041  | train_mae: 54.06711| train_rmse: 54.78204| train_mse: 3001.07143| valid_rmsle: 1.95889 | valid_mae: 52.68202| valid_rmse: 53.41702| valid_mse: 2853.37776|  0:00:02s
+epoch 23 | loss: 3091.3042| train_rmsle: 1.99925 | train_mae: 53.06243| train_rmse: 53.81839| train_mse: 2896.41887| valid_rmsle: 1.84322 | valid_mae: 51.31037| valid_rmse: 52.09548| valid_mse: 2713.93887|  0:00:03s
+epoch 24 | loss: 3089.79272| train_rmsle: 1.97267 | train_mae: 52.63877| train_rmse: 53.42737| train_mse: 2854.48422| valid_rmsle: 1.73933 | valid_mae: 50.14948| valid_rmse: 50.98136| valid_mse: 2599.09914|  0:00:03s
+epoch 25 | loss: 3013.302| train_rmsle: 1.89559 | train_mae: 51.71249| train_rmse: 52.539  | train_mse: 2760.34701| valid_rmsle: 1.65516 | valid_mae: 48.89915| valid_rmse: 49.7614 | valid_mse: 2476.19722|  0:00:03s
+epoch 26 | loss: 2963.4502| train_rmsle: 1.85929 | train_mae: 51.27893| train_rmse: 52.10466| train_mse: 2714.8952| valid_rmsle: 1.60189 | valid_mae: 48.02861| valid_rmse: 48.96357| valid_mse: 2397.4308|  0:00:03s
+epoch 27 | loss: 2987.15015| train_rmsle: 1.90119 | train_mae: 51.56822| train_rmse: 52.41417| train_mse: 2747.24491| valid_rmsle: 1.60198 | valid_mae: 47.71826| valid_rmse: 48.76188| valid_mse: 2377.72073|  0:00:03s
+epoch 28 | loss: 2952.49414| train_rmsle: 1.91658 | train_mae: 51.54527| train_rmse: 52.42917| train_mse: 2748.81833| valid_rmsle: 1.58613 | valid_mae: 47.1639 | valid_rmse: 48.33675| valid_mse: 2336.44138|  0:00:03s
+epoch 29 | loss: 2873.54688| train_rmsle: 1.9033  | train_mae: 51.06849| train_rmse: 52.04376| train_mse: 2708.55336| valid_rmsle: 1.5279  | valid_mae: 45.97982| valid_rmse: 47.29051| valid_mse: 2236.39195|  0:00:03s
+epoch 30 | loss: 2892.56543| train_rmsle: 1.89967 | train_mae: 50.80628| train_rmse: 51.84983| train_mse: 2688.4052| valid_rmsle: 1.52722 | valid_mae: 45.52421| valid_rmse: 46.88882| valid_mse: 2198.56149|  0:00:03s
+epoch 31 | loss: 2823.33667| train_rmsle: 1.91267 | train_mae: 50.83466| train_rmse: 51.93414| train_mse: 2697.15456| valid_rmsle: 1.57616 | valid_mae: 45.63049| valid_rmse: 47.13352| valid_mse: 2221.56868|  0:00:03s
+epoch 32 | loss: 2784.1709| train_rmsle: 1.82659 | train_mae: 49.74185| train_rmse: 50.95702| train_mse: 2596.61749| valid_rmsle: 1.51454 | valid_mae: 44.45871| valid_rmse: 46.15884| valid_mse: 2130.63868|  0:00:04s
+epoch 33 | loss: 2752.50342| train_rmsle: 1.7999  | train_mae: 49.26131| train_rmse: 50.55162| train_mse: 2555.46658| valid_rmsle: 1.58222 | valid_mae: 44.62624| valid_rmse: 46.61335| valid_mse: 2172.80466|  0:00:04s
+epoch 34 | loss: 2673.54883| train_rmsle: 1.7314  | train_mae: 48.4066 | train_rmse: 49.72336| train_mse: 2472.41208| valid_rmsle: 1.536   | valid_mae: 43.96842| valid_rmse: 46.00161| valid_mse: 2116.14834|  0:00:04s
+epoch 35 | loss: 2695.02124| train_rmsle: 1.65887 | train_mae: 47.41308| train_rmse: 48.77144| train_mse: 2378.65355| valid_rmsle: 1.46914 | valid_mae: 43.14336| valid_rmse: 45.18235| valid_mse: 2041.44515|  0:00:04s
+epoch 36 | loss: 2611.47949| train_rmsle: 1.57111 | train_mae: 46.13726| train_rmse: 47.53579| train_mse: 2259.65149| valid_rmsle: 1.41506 | valid_mae: 42.33094| valid_rmse: 44.3257 | valid_mse: 1964.76769|  0:00:04s
+epoch 37 | loss: 2550.11377| train_rmsle: 1.50727 | train_mae: 45.24238| train_rmse: 46.66563| train_mse: 2177.6813| valid_rmsle: 1.36643 | valid_mae: 41.65088| valid_rmse: 43.58663| valid_mse: 1899.79432|  0:00:04s
+epoch 38 | loss: 2502.51172| train_rmsle: 1.45646 | train_mae: 44.63885| train_rmse: 46.05935| train_mse: 2121.46397| valid_rmsle: 1.34876 | valid_mae: 41.53843| valid_rmse: 43.42482| valid_mse: 1885.71456|  0:00:04s
+epoch 39 | loss: 2493.93506| train_rmsle: 1.43764 | train_mae: 44.4852 | train_rmse: 45.87648| train_mse: 2104.65155| valid_rmsle: 1.35324 | valid_mae: 42.12691| valid_rmse: 43.88065| valid_mse: 1925.51178|  0:00:04s
+epoch 40 | loss: 2448.09399| train_rmsle: 1.44023 | train_mae: 44.6427 | train_rmse: 46.03024| train_mse: 2118.78303| valid_rmsle: 1.38633 | valid_mae: 43.00413| valid_rmse: 44.59681| valid_mse: 1988.87547|  0:00:04s
+epoch 41 | loss: 2375.36035| train_rmsle: 1.43822 | train_mae: 44.69934| train_rmse: 46.08185| train_mse: 2123.5373| valid_rmsle: 1.39466 | valid_mae: 43.31347| valid_rmse: 44.86449| valid_mse: 2012.82261|  0:00:05s
+epoch 42 | loss: 2295.93579| train_rmsle: 1.3984  | train_mae: 44.22635| train_rmse: 45.59211| train_mse: 2078.64054| valid_rmsle: 1.33838 | valid_mae: 42.98067| valid_rmse: 44.40004| valid_mse: 1971.36354|  0:00:05s
+epoch 43 | loss: 2244.68042| train_rmsle: 1.3704  | train_mae: 43.90975| train_rmse: 45.26345| train_mse: 2048.77964| valid_rmsle: 1.31827 | valid_mae: 42.96648| valid_rmse: 44.28587| valid_mse: 1961.23844|  0:00:05s
+epoch 44 | loss: 2231.06079| train_rmsle: 1.3564  | train_mae: 43.86882| train_rmse: 45.19694| train_mse: 2042.76378| valid_rmsle: 1.29769 | valid_mae: 42.87277| valid_rmse: 44.11161| valid_mse: 1945.83452|  0:00:05s
+epoch 45 | loss: 2166.21948| train_rmsle: 1.33453 | train_mae: 43.641  | train_rmse: 44.9664 | train_mse: 2021.97716| valid_rmsle: 1.27684 | valid_mae: 42.74207| valid_rmse: 43.90993| valid_mse: 1928.08204|  0:00:05s
+epoch 46 | loss: 2135.8418| train_rmsle: 1.32242 | train_mae: 43.56634| train_rmse: 44.87632| train_mse: 2013.88371| valid_rmsle: 1.24377 | valid_mae: 42.47515| valid_rmse: 43.59377| valid_mse: 1900.41658|  0:00:05s
+epoch 47 | loss: 2068.34009| train_rmsle: 1.28244 | train_mae: 43.00027| train_rmse: 44.30289| train_mse: 1962.74601| valid_rmsle: 1.17669 | valid_mae: 41.45561| valid_rmse: 42.58429| valid_mse: 1813.42205|  0:00:05s
+epoch 48 | loss: 1982.00513| train_rmsle: 1.26035 | train_mae: 42.75286| train_rmse: 44.03007| train_mse: 1938.64693| valid_rmsle: 1.14423 | valid_mae: 40.95628| valid_rmse: 42.09744| valid_mse: 1772.19449|  0:00:05s
+epoch 49 | loss: 1933.2804| train_rmsle: 1.21793 | train_mae: 42.0967 | train_rmse: 43.35991| train_mse: 1880.08176| valid_rmsle: 1.10915 | valid_mae: 40.32552| valid_rmse: 41.44117| valid_mse: 1717.37076|  0:00:05s
+epoch 50 | loss: 1852.82166| train_rmsle: 1.1973  | train_mae: 41.83979| train_rmse: 43.0665 | train_mse: 1854.72311| valid_rmsle: 1.10247 | valid_mae: 40.25357| valid_rmse: 41.35215| valid_mse: 1710.00023|  0:00:05s
+epoch 51 | loss: 1835.52612| train_rmsle: 1.16915 | train_mae: 41.41633| train_rmse: 42.62878| train_mse: 1817.21323| valid_rmsle: 1.10139 | valid_mae: 40.27729| valid_rmse: 41.38045| valid_mse: 1712.34176|  0:00:06s
+epoch 52 | loss: 1779.25342| train_rmsle: 1.12395 | train_mae: 40.63676| train_rmse: 41.83026| train_mse: 1749.77038| valid_rmsle: 1.06776 | valid_mae: 39.70417| valid_rmse: 40.77657| valid_mse: 1662.72832|  0:00:06s
+epoch 53 | loss: 1686.10168| train_rmsle: 1.09948 | train_mae: 40.26734| train_rmse: 41.44157| train_mse: 1717.4036| valid_rmsle: 1.05523 | valid_mae: 39.59073| valid_rmse: 40.64918| valid_mse: 1652.3557|  0:00:06s
+epoch 54 | loss: 1651.12781| train_rmsle: 1.05238 | train_mae: 39.45211| train_rmse: 40.59232| train_mse: 1647.73656| valid_rmsle: 1.03253 | valid_mae: 39.18986| valid_rmse: 40.25648| valid_mse: 1620.58432|  0:00:06s
+epoch 55 | loss: 1572.62817| train_rmsle: 1.01129 | train_mae: 38.67182| train_rmse: 39.80365| train_mse: 1584.33054| valid_rmsle: 1.00781 | valid_mae: 38.70055| valid_rmse: 39.78625| valid_mse: 1582.94549|  0:00:06s
+epoch 56 | loss: 1489.12158| train_rmsle: 0.97718 | train_mae: 38.00452| train_rmse: 39.12398| train_mse: 1530.68556| valid_rmsle: 0.98149 | valid_mae: 38.23901| valid_rmse: 39.32136| valid_mse: 1546.16899|  0:00:06s
+epoch 57 | loss: 1433.41724| train_rmsle: 0.93056 | train_mae: 37.08726| train_rmse: 38.16134| train_mse: 1456.28769| valid_rmsle: 0.93565 | valid_mae: 37.34881| valid_rmse: 38.38593| valid_mse: 1473.47927|  0:00:06s
+epoch 58 | loss: 1410.00098| train_rmsle: 0.89173 | train_mae: 36.28901| train_rmse: 37.32183| train_mse: 1392.91873| valid_rmsle: 0.89826 | valid_mae: 36.57171| valid_rmse: 37.55294| valid_mse: 1410.22353|  0:00:06s
+epoch 59 | loss: 1327.36462| train_rmsle: 0.86044 | train_mae: 35.58554| train_rmse: 36.58898| train_mse: 1338.75358| valid_rmsle: 0.86466 | valid_mae: 35.82198| valid_rmse: 36.7684 | valid_mse: 1351.91519|  0:00:07s
+epoch 60 | loss: 1260.30762| train_rmsle: 0.82693 | train_mae: 34.77494| train_rmse: 35.76897| train_mse: 1279.41926| valid_rmsle: 0.83606 | valid_mae: 35.10881| valid_rmse: 36.01405| valid_mse: 1297.01147|  0:00:07s
+epoch 61 | loss: 1186.50977| train_rmsle: 0.79559 | train_mae: 33.97897| train_rmse: 34.97311| train_mse: 1223.11847| valid_rmsle: 0.80388 | valid_mae: 34.27063| valid_rmse: 35.15076| valid_mse: 1235.5756|  0:00:07s
+epoch 62 | loss: 1129.27148| train_rmsle: 0.77061 | train_mae: 33.30589| train_rmse: 34.29451| train_mse: 1176.11362| valid_rmsle: 0.77423 | valid_mae: 33.45094| valid_rmse: 34.32498| valid_mse: 1178.20453|  0:00:07s
+epoch 63 | loss: 1092.36011| train_rmsle: 0.74941 | train_mae: 32.69868| train_rmse: 33.69952| train_mse: 1135.65779| valid_rmsle: 0.75097 | valid_mae: 32.77155| valid_rmse: 33.66373| valid_mse: 1133.24683|  0:00:07s
+epoch 64 | loss: 1032.02332| train_rmsle: 0.72967 | train_mae: 32.10673| train_rmse: 33.11671| train_mse: 1096.71652| valid_rmsle: 0.73002 | valid_mae: 32.0924 | valid_rmse: 33.02247| valid_mse: 1090.48365|  0:00:07s
+epoch 65 | loss: 972.31403| train_rmsle: 0.70676 | train_mae: 31.40416| train_rmse: 32.42173| train_mse: 1051.1688| valid_rmsle: 0.70375 | valid_mae: 31.28411| valid_rmse: 32.23367| valid_mse: 1039.00921|  0:00:07s
+epoch 66 | loss: 894.83087| train_rmsle: 0.68397 | train_mae: 30.68019| train_rmse: 31.72184| train_mse: 1006.27488| valid_rmsle: 0.68376 | valid_mae: 30.67782| valid_rmse: 31.61411| valid_mse: 999.45205|  0:00:07s
+epoch 67 | loss: 845.58344| train_rmsle: 0.66462 | train_mae: 30.04049| train_rmse: 31.10215| train_mse: 967.34398| valid_rmsle: 0.65979 | valid_mae: 29.907  | valid_rmse: 30.87449| valid_mse: 953.23426|  0:00:07s
+epoch 68 | loss: 779.08234| train_rmsle: 0.64113 | train_mae: 29.27311| train_rmse: 30.35138| train_mse: 921.20621| valid_rmsle: 0.63767 | valid_mae: 29.18871| valid_rmse: 30.12473| valid_mse: 907.49963|  0:00:08s
+epoch 69 | loss: 725.64044| train_rmsle: 0.62282 | train_mae: 28.64019| train_rmse: 29.72609| train_mse: 883.64016| valid_rmsle: 0.6158  | valid_mae: 28.4157 | valid_rmse: 29.32871| valid_mse: 860.17329|  0:00:08s
+epoch 70 | loss: 679.32361| train_rmsle: 0.60157 | train_mae: 27.88882| train_rmse: 28.9998 | train_mse: 840.98856| valid_rmsle: 0.58703 | valid_mae: 27.39028| valid_rmse: 28.36911| valid_mse: 804.80637|  0:00:08s
+epoch 71 | loss: 638.08887| train_rmsle: 0.57925 | train_mae: 27.08132| train_rmse: 28.19838| train_mse: 795.14854| valid_rmsle: 0.56375 | valid_mae: 26.45743| valid_rmse: 27.5114 | valid_mse: 756.87706|  0:00:08s
+epoch 72 | loss: 572.5647| train_rmsle: 0.55562 | train_mae: 26.22356| train_rmse: 27.32979| train_mse: 746.91756| valid_rmsle: 0.53227 | valid_mae: 25.28922| valid_rmse: 26.38184| valid_mse: 696.00169|  0:00:08s
+epoch 73 | loss: 516.13275| train_rmsle: 0.53197 | train_mae: 25.31722| train_rmse: 26.44309| train_mse: 699.23711| valid_rmsle: 0.50495 | valid_mae: 24.27605| valid_rmse: 25.40511| valid_mse: 645.41969|  0:00:08s
+epoch 74 | loss: 480.84567| train_rmsle: 0.50307 | train_mae: 24.23312| train_rmse: 25.35809| train_mse: 643.03277| valid_rmsle: 0.47303 | valid_mae: 22.97436| valid_rmse: 24.20215| valid_mse: 585.74412|  0:00:08s
+epoch 75 | loss: 451.44199| train_rmsle: 0.47422 | train_mae: 23.08325| train_rmse: 24.25532| train_mse: 588.32041| valid_rmsle: 0.44631 | valid_mae: 21.85192| valid_rmse: 23.18711| valid_mse: 537.64228|  0:00:09s
+epoch 76 | loss: 384.15817| train_rmsle: 0.44626 | train_mae: 21.9171 | train_rmse: 23.17406| train_mse: 537.03698| valid_rmsle: 0.42286 | valid_mae: 20.88156| valid_rmse: 22.28725| valid_mse: 496.72156|  0:00:09s
+epoch 77 | loss: 352.5809| train_rmsle: 0.41686 | train_mae: 20.66264| train_rmse: 21.98053| train_mse: 483.14366| valid_rmsle: 0.39741 | valid_mae: 19.79717| valid_rmse: 21.22748| valid_mse: 450.60577|  0:00:09s
+epoch 78 | loss: 320.76352| train_rmsle: 0.39211 | train_mae: 19.59838| train_rmse: 20.96586| train_mse: 439.56713| valid_rmsle: 0.38132 | valid_mae: 19.06619| valid_rmse: 20.55495| valid_mse: 422.50607|  0:00:09s
+epoch 79 | loss: 281.39682| train_rmsle: 0.36851 | train_mae: 18.54209| train_rmse: 19.97794| train_mse: 399.11816| valid_rmsle: 0.36641 | valid_mae: 18.35757| valid_rmse: 19.91709| valid_mse: 396.69036|  0:00:09s
+epoch 80 | loss: 250.44501| train_rmsle: 0.34977 | train_mae: 17.63599| train_rmse: 19.17334| train_mse: 367.617 | valid_rmsle: 0.34913 | valid_mae: 17.53854| valid_rmse: 19.17751| valid_mse: 367.77672|  0:00:09s
+epoch 81 | loss: 221.40967| train_rmsle: 0.32484 | train_mae: 16.47051| train_rmse: 18.07917| train_mse: 326.85636| valid_rmsle: 0.32743 | valid_mae: 16.56863| valid_rmse: 18.21548| valid_mse: 331.80385|  0:00:09s
+epoch 82 | loss: 195.86615| train_rmsle: 0.3007  | train_mae: 15.33331| train_rmse: 16.99171| train_mse: 288.71828| valid_rmsle: 0.30631 | valid_mae: 15.54765| valid_rmse: 17.27868| valid_mse: 298.55282|  0:00:09s
+epoch 83 | loss: 158.47662| train_rmsle: 0.27841 | train_mae: 14.27664| train_rmse: 15.96472| train_mse: 254.87218| valid_rmsle: 0.28793 | valid_mae: 14.64485| valid_rmse: 16.46769| valid_mse: 271.18498|  0:00:10s
+epoch 84 | loss: 135.71687| train_rmsle: 0.26112 | train_mae: 13.39844| train_rmse: 15.13478| train_mse: 229.06151| valid_rmsle: 0.27676 | valid_mae: 14.0644 | valid_rmse: 15.96734| valid_mse: 254.95592|  0:00:10s
+epoch 85 | loss: 114.48351| train_rmsle: 0.24452 | train_mae: 12.61007| train_rmse: 14.31968| train_mse: 205.05311| valid_rmsle: 0.25432 | valid_mae: 12.98802| valid_rmse: 14.85964| valid_mse: 220.8089|  0:00:10s
+epoch 86 | loss: 98.00246| train_rmsle: 0.22672 | train_mae: 11.74088| train_rmse: 13.41713| train_mse: 180.01946| valid_rmsle: 0.23644 | valid_mae: 12.08482| valid_rmse: 13.96043| valid_mse: 194.89374|  0:00:10s
+epoch 87 | loss: 80.80513| train_rmsle: 0.20823 | train_mae: 10.77277| train_rmse: 12.44962| train_mse: 154.99314| valid_rmsle: 0.21842 | valid_mae: 11.2064 | valid_rmse: 13.06104| valid_mse: 170.59081|  0:00:10s
+epoch 88 | loss: 69.1136 | train_rmsle: 0.18951 | train_mae: 9.77842 | train_rmse: 11.44092| train_mse: 130.89458| valid_rmsle: 0.20019 | valid_mae: 10.24096| valid_rmse: 12.08394| valid_mse: 146.02172|  0:00:10s
+epoch 89 | loss: 58.39967| train_rmsle: 0.17201 | train_mae: 8.80574 | train_rmse: 10.46581| train_mse: 109.53327| valid_rmsle: 0.181   | valid_mae: 9.18207 | valid_rmse: 11.02939| valid_mse: 121.64735|  0:00:10s
+epoch 90 | loss: 51.29643| train_rmsle: 0.15893 | train_mae: 8.09687 | train_rmse: 9.71729 | train_mse: 94.4257 | valid_rmsle: 0.16295 | valid_mae: 8.23205 | valid_rmse: 10.02039| valid_mse: 100.40815|  0:00:10s
+epoch 91 | loss: 41.0058 | train_rmsle: 0.14701 | train_mae: 7.47707 | train_rmse: 9.00398 | train_mse: 81.07169| valid_rmsle: 0.15008 | valid_mae: 7.66708 | valid_rmse: 9.27004 | valid_mse: 85.93368|  0:00:11s
+epoch 92 | loss: 40.35421| train_rmsle: 0.13992 | train_mae: 7.0979  | train_rmse: 8.57286 | train_mse: 73.49395| valid_rmsle: 0.14388 | valid_mae: 7.38475 | valid_rmse: 8.89071 | valid_mse: 79.04475|  0:00:11s
+epoch 93 | loss: 38.72298| train_rmsle: 0.13598 | train_mae: 6.82728 | train_rmse: 8.33332 | train_mse: 69.44415| valid_rmsle: 0.13635 | valid_mae: 6.93994 | valid_rmse: 8.43793 | valid_mse: 71.19871|  0:00:11s
+epoch 94 | loss: 35.67514| train_rmsle: 0.13174 | train_mae: 6.55311 | train_rmse: 8.07066 | train_mse: 65.1356 | valid_rmsle: 0.12567 | valid_mae: 6.30678 | valid_rmse: 7.81031 | valid_mse: 61.00098|  0:00:11s
+epoch 95 | loss: 39.19785| train_rmsle: 0.12283 | train_mae: 6.00533 | train_rmse: 7.51816 | train_mse: 56.52267| valid_rmsle: 0.1218  | valid_mae: 6.19559 | valid_rmse: 7.54983 | valid_mse: 56.99997|  0:00:11s
+epoch 96 | loss: 38.19816| train_rmsle: 0.11799 | train_mae: 5.64386 | train_rmse: 7.21883 | train_mse: 52.11146| valid_rmsle: 0.11418 | valid_mae: 5.7793  | valid_rmse: 7.0281  | valid_mse: 49.39416|  0:00:11s
+epoch 97 | loss: 36.04339| train_rmsle: 0.11781 | train_mae: 5.6035  | train_rmse: 7.21457 | train_mse: 52.04999| valid_rmsle: 0.11334 | valid_mae: 5.7197  | valid_rmse: 6.96231 | valid_mse: 48.47371|  0:00:11s
+epoch 98 | loss: 33.81571| train_rmsle: 0.11818 | train_mae: 5.56617 | train_rmse: 7.24376 | train_mse: 52.47204| valid_rmsle: 0.11788 | valid_mae: 5.5619  | valid_rmse: 7.12066 | valid_mse: 50.70375|  0:00:11s
+epoch 99 | loss: 34.25358| train_rmsle: 0.12004 | train_mae: 5.62103 | train_rmse: 7.37478 | train_mse: 54.38743| valid_rmsle: 0.11614 | valid_mae: 5.49482 | valid_rmse: 7.00033 | valid_mse: 49.00467|  0:00:12s
+epoch 100| loss: 33.2082 | train_rmsle: 0.11901 | train_mae: 5.63407 | train_rmse: 7.28246 | train_mse: 53.03429| valid_rmsle: 0.11216 | valid_mae: 5.4799  | valid_rmse: 6.75668 | valid_mse: 45.65267|  0:00:12s
+epoch 101| loss: 31.20144| train_rmsle: 0.11589 | train_mae: 5.45969 | train_rmse: 7.07946 | train_mse: 50.11881| valid_rmsle: 0.10957 | valid_mae: 5.38666 | valid_rmse: 6.62143 | valid_mse: 43.84332|  0:00:12s
+epoch 102| loss: 32.54743| train_rmsle: 0.11408 | train_mae: 5.42069 | train_rmse: 6.95607 | train_mse: 48.38693| valid_rmsle: 0.10655 | valid_mae: 5.22726 | valid_rmse: 6.41828 | valid_mse: 41.19432|  0:00:12s
+epoch 103| loss: 30.97777| train_rmsle: 0.11215 | train_mae: 5.3897  | train_rmse: 6.82584 | train_mse: 46.59203| valid_rmsle: 0.10419 | valid_mae: 5.06679 | valid_rmse: 6.28852 | valid_mse: 39.54543|  0:00:12s
+epoch 104| loss: 29.09736| train_rmsle: 0.10892 | train_mae: 5.27786 | train_rmse: 6.63463 | train_mse: 44.01827| valid_rmsle: 0.10103 | valid_mae: 4.90236 | valid_rmse: 6.12978 | valid_mse: 37.57415|  0:00:12s
+epoch 105| loss: 29.66605| train_rmsle: 0.10802 | train_mae: 5.25507 | train_rmse: 6.57847 | train_mse: 43.27632| valid_rmsle: 0.09919 | valid_mae: 4.85695 | valid_rmse: 6.06068 | valid_mse: 36.73179|  0:00:12s
+epoch 106| loss: 32.86268| train_rmsle: 0.10874 | train_mae: 5.32001 | train_rmse: 6.61846 | train_mse: 43.80401| valid_rmsle: 0.0976  | valid_mae: 4.82199 | valid_rmse: 6.01364 | valid_mse: 36.16381|  0:00:13s
+epoch 107| loss: 27.75609| train_rmsle: 0.10921 | train_mae: 5.33547 | train_rmse: 6.63921 | train_mse: 44.07913| valid_rmsle: 0.09668 | valid_mae: 4.85264 | valid_rmse: 5.96528 | valid_mse: 35.5846 |  0:00:13s
+epoch 108| loss: 27.70453| train_rmsle: 0.10893 | train_mae: 5.27381 | train_rmse: 6.60079 | train_mse: 43.57037| valid_rmsle: 0.09502 | valid_mae: 4.72169 | valid_rmse: 5.8379  | valid_mse: 34.0811 |  0:00:13s
+epoch 109| loss: 26.56449| train_rmsle: 0.10983 | train_mae: 5.27262 | train_rmse: 6.64426 | train_mse: 44.14613| valid_rmsle: 0.09476 | valid_mae: 4.72595 | valid_rmse: 5.81155 | valid_mse: 33.77409|  0:00:13s
+epoch 110| loss: 24.44848| train_rmsle: 0.10994 | train_mae: 5.23993 | train_rmse: 6.6443  | train_mse: 44.14672| valid_rmsle: 0.09502 | valid_mae: 4.65675 | valid_rmse: 5.80677 | valid_mse: 33.71853|  0:00:13s
+epoch 111| loss: 28.81865| train_rmsle: 0.10889 | train_mae: 5.18324 | train_rmse: 6.57711 | train_mse: 43.25834| valid_rmsle: 0.09364 | valid_mae: 4.55799 | valid_rmse: 5.7133  | valid_mse: 32.64177|  0:00:13s
+epoch 112| loss: 26.64014| train_rmsle: 0.10727 | train_mae: 5.14668 | train_rmse: 6.48608 | train_mse: 42.06917| valid_rmsle: 0.09298 | valid_mae: 4.57481 | valid_rmse: 5.6709  | valid_mse: 32.15916|  0:00:13s
+epoch 113| loss: 27.21753| train_rmsle: 0.10416 | train_mae: 5.04198 | train_rmse: 6.29799 | train_mse: 39.66464| valid_rmsle: 0.09248 | valid_mae: 4.56042 | valid_rmse: 5.64851 | valid_mse: 31.90567|  0:00:13s
+epoch 114| loss: 24.58097| train_rmsle: 0.10248 | train_mae: 4.99855 | train_rmse: 6.19817 | train_mse: 38.41731| valid_rmsle: 0.0929  | valid_mae: 4.5597  | valid_rmse: 5.68342 | valid_mse: 32.30125|  0:00:14s
+epoch 115| loss: 24.8592 | train_rmsle: 0.10017 | train_mae: 4.83569 | train_rmse: 6.03797 | train_mse: 36.45707| valid_rmsle: 0.09212 | valid_mae: 4.45629 | valid_rmse: 5.63376 | valid_mse: 31.73929|  0:00:14s
+epoch 116| loss: 24.55046| train_rmsle: 0.09783 | train_mae: 4.68558 | train_rmse: 5.88204 | train_mse: 34.5984 | valid_rmsle: 0.09092 | valid_mae: 4.37483 | valid_rmse: 5.54251 | valid_mse: 30.71945|  0:00:14s
+epoch 117| loss: 24.98375| train_rmsle: 0.09797 | train_mae: 4.68019 | train_rmse: 5.87949 | train_mse: 34.56838| valid_rmsle: 0.09092 | valid_mae: 4.33555 | valid_rmse: 5.51171 | valid_mse: 30.37891|  0:00:14s
+epoch 118| loss: 24.54167| train_rmsle: 0.09882 | train_mae: 4.6798  | train_rmse: 5.93053 | train_mse: 35.17119| valid_rmsle: 0.09235 | valid_mae: 4.38821 | valid_rmse: 5.57907 | valid_mse: 31.12604|  0:00:14s
+epoch 119| loss: 23.14519| train_rmsle: 0.09916 | train_mae: 4.60711 | train_rmse: 5.9449  | train_mse: 35.34189| valid_rmsle: 0.09496 | valid_mae: 4.36507 | valid_rmse: 5.70815 | valid_mse: 32.58294|  0:00:14s
+epoch 120| loss: 24.611  | train_rmsle: 0.10263 | train_mae: 4.68702 | train_rmse: 6.1928  | train_mse: 38.35076| valid_rmsle: 0.10028 | valid_mae: 4.6406  | valid_rmse: 6.05637 | valid_mse: 36.67966|  0:00:14s
+epoch 121| loss: 23.93247| train_rmsle: 0.10762 | train_mae: 4.86544 | train_rmse: 6.56291 | train_mse: 43.07177| valid_rmsle: 0.10556 | valid_mae: 4.8901  | valid_rmse: 6.43167 | valid_mse: 41.3664 |  0:00:14s
+epoch 122| loss: 23.76524| train_rmsle: 0.11252 | train_mae: 5.10978 | train_rmse: 6.91693 | train_mse: 47.84395| valid_rmsle: 0.11053 | valid_mae: 5.18269 | valid_rmse: 6.76973 | valid_mse: 45.8293 |  0:00:14s
+epoch 123| loss: 22.15994| train_rmsle: 0.11332 | train_mae: 5.17433 | train_rmse: 6.97227 | train_mse: 48.61248| valid_rmsle: 0.10986 | valid_mae: 5.12573 | valid_rmse: 6.71815 | valid_mse: 45.13349|  0:00:14s
+epoch 124| loss: 22.75838| train_rmsle: 0.11095 | train_mae: 5.06322 | train_rmse: 6.77984 | train_mse: 45.96628| valid_rmsle: 0.10507 | valid_mae: 4.81787 | valid_rmse: 6.37087 | valid_mse: 40.58798|  0:00:15s
+epoch 125| loss: 22.71024| train_rmsle: 0.10635 | train_mae: 4.86928 | train_rmse: 6.43157 | train_mse: 41.36508| valid_rmsle: 0.10013 | valid_mae: 4.52069 | valid_rmse: 6.00027 | valid_mse: 36.00326|  0:00:15s
+epoch 126| loss: 22.29771| train_rmsle: 0.10225 | train_mae: 4.76344 | train_rmse: 6.14371 | train_mse: 37.74521| valid_rmsle: 0.09621 | valid_mae: 4.366   | valid_rmse: 5.74513 | valid_mse: 33.00652|  0:00:15s
+epoch 127| loss: 21.225  | train_rmsle: 0.09972 | train_mae: 4.72805 | train_rmse: 5.98268 | train_mse: 35.79251| valid_rmsle: 0.09428 | valid_mae: 4.42335 | valid_rmse: 5.66099 | valid_mse: 32.04675|  0:00:15s
+epoch 128| loss: 21.91736| train_rmsle: 0.09852 | train_mae: 4.72731 | train_rmse: 5.91297 | train_mse: 34.96325| valid_rmsle: 0.0939  | valid_mae: 4.51023 | valid_rmse: 5.67059 | valid_mse: 32.15558|  0:00:15s
+epoch 129| loss: 19.55444| train_rmsle: 0.09664 | train_mae: 4.64926 | train_rmse: 5.80218 | train_mse: 33.66528| valid_rmsle: 0.09306 | valid_mae: 4.51941 | valid_rmse: 5.64822 | valid_mse: 31.90241|  0:00:15s
+epoch 130| loss: 22.09728| train_rmsle: 0.0943  | train_mae: 4.52312 | train_rmse: 5.65323 | train_mse: 31.95905| valid_rmsle: 0.09184 | valid_mae: 4.51724 | valid_rmse: 5.59375 | valid_mse: 31.29003|  0:00:15s
+epoch 131| loss: 22.86144| train_rmsle: 0.09195 | train_mae: 4.37851 | train_rmse: 5.49236 | train_mse: 30.16604| valid_rmsle: 0.08832 | valid_mae: 4.34068 | valid_rmse: 5.36894 | valid_mse: 28.82549|  0:00:15s
+epoch 132| loss: 21.87776| train_rmsle: 0.09077 | train_mae: 4.30546 | train_rmse: 5.40407 | train_mse: 29.20397| valid_rmsle: 0.08622 | valid_mae: 4.21828 | valid_rmse: 5.22096 | valid_mse: 27.25846|  0:00:15s
+epoch 133| loss: 21.44673| train_rmsle: 0.09    | train_mae: 4.25084 | train_rmse: 5.34274 | train_mse: 28.54491| valid_rmsle: 0.08466 | valid_mae: 4.12696 | valid_rmse: 5.12053 | valid_mse: 26.21987|  0:00:16s
+epoch 134| loss: 20.62887| train_rmsle: 0.08962 | train_mae: 4.23654 | train_rmse: 5.32617 | train_mse: 28.36808| valid_rmsle: 0.08378 | valid_mae: 4.06497 | valid_rmse: 5.08838 | valid_mse: 25.89157|  0:00:16s
+epoch 135| loss: 22.14797| train_rmsle: 0.09008 | train_mae: 4.25518 | train_rmse: 5.35786 | train_mse: 28.70661| valid_rmsle: 0.08462 | valid_mae: 4.15455 | valid_rmse: 5.16717 | valid_mse: 26.69961|  0:00:16s
+epoch 136| loss: 21.44437| train_rmsle: 0.09092 | train_mae: 4.32395 | train_rmse: 5.4305  | train_mse: 29.49032| valid_rmsle: 0.08843 | valid_mae: 4.39103 | valid_rmse: 5.44032 | valid_mse: 29.59704|  0:00:16s
+epoch 137| loss: 20.53762| train_rmsle: 0.09202 | train_mae: 4.39585 | train_rmse: 5.52999 | train_mse: 30.58076| valid_rmsle: 0.0931  | valid_mae: 4.64756 | valid_rmse: 5.73865 | valid_mse: 32.93216|  0:00:16s
+epoch 138| loss: 20.02883| train_rmsle: 0.09347 | train_mae: 4.49355 | train_rmse: 5.64171 | train_mse: 31.82885| valid_rmsle: 0.09789 | valid_mae: 4.83693 | valid_rmse: 6.02153 | valid_mse: 36.25884|  0:00:16s
+epoch 139| loss: 20.68589| train_rmsle: 0.09344 | train_mae: 4.45396 | train_rmse: 5.6452  | train_mse: 31.86824| valid_rmsle: 0.10037 | valid_mae: 4.93159 | valid_rmse: 6.16142 | valid_mse: 37.96308|  0:00:16s
+epoch 140| loss: 19.36145| train_rmsle: 0.09203 | train_mae: 4.35204 | train_rmse: 5.5457  | train_mse: 30.75482| valid_rmsle: 0.10334 | valid_mae: 4.91174 | valid_rmse: 6.29495 | valid_mse: 39.62641|  0:00:16s
+epoch 141| loss: 21.12805| train_rmsle: 0.09086 | train_mae: 4.29974 | train_rmse: 5.4687  | train_mse: 29.90665| valid_rmsle: 0.10636 | valid_mae: 4.92997 | valid_rmse: 6.45111 | valid_mse: 41.61684|  0:00:16s
+epoch 142| loss: 18.61608| train_rmsle: 0.09082 | train_mae: 4.26947 | train_rmse: 5.46472 | train_mse: 29.86321| valid_rmsle: 0.1094  | valid_mae: 4.93935 | valid_rmse: 6.63162 | valid_mse: 43.97841|  0:00:17s
+epoch 143| loss: 19.48496| train_rmsle: 0.09053 | train_mae: 4.22919 | train_rmse: 5.43925 | train_mse: 29.58542| valid_rmsle: 0.11059 | valid_mae: 4.99887 | valid_rmse: 6.69936 | valid_mse: 44.88144|  0:00:17s
+epoch 144| loss: 18.17117| train_rmsle: 0.0898  | train_mae: 4.19091 | train_rmse: 5.39143 | train_mse: 29.06756| valid_rmsle: 0.11172 | valid_mae: 5.02656 | valid_rmse: 6.77767 | valid_mse: 45.93684|  0:00:17s
+epoch 145| loss: 18.47034| train_rmsle: 0.08915 | train_mae: 4.17196 | train_rmse: 5.35891 | train_mse: 28.71792| valid_rmsle: 0.1106  | valid_mae: 4.95591 | valid_rmse: 6.71338 | valid_mse: 45.06948|  0:00:17s
+epoch 146| loss: 17.31311| train_rmsle: 0.08876 | train_mae: 4.1652  | train_rmse: 5.34141 | train_mse: 28.53071| valid_rmsle: 0.10994 | valid_mae: 4.948   | valid_rmse: 6.67709 | valid_mse: 44.58351|  0:00:17s
+epoch 147| loss: 18.04392| train_rmsle: 0.08861 | train_mae: 4.18073 | train_rmse: 5.33799 | train_mse: 28.49415| valid_rmsle: 0.10906 | valid_mae: 4.94834 | valid_rmse: 6.62333 | valid_mse: 43.86846|  0:00:17s
+epoch 148| loss: 17.58151| train_rmsle: 0.08851 | train_mae: 4.20128 | train_rmse: 5.34084 | train_mse: 28.52452| valid_rmsle: 0.10709 | valid_mae: 4.93678 | valid_rmse: 6.49811 | valid_mse: 42.22538|  0:00:17s
+epoch 149| loss: 17.03862| train_rmsle: 0.08801 | train_mae: 4.22782 | train_rmse: 5.31675 | train_mse: 28.26779| valid_rmsle: 0.10448 | valid_mae: 4.87359 | valid_rmse: 6.32988 | valid_mse: 40.06735|  0:00:17s
+epoch 150| loss: 17.81591| train_rmsle: 0.08729 | train_mae: 4.24498 | train_rmse: 5.28187 | train_mse: 27.89817| valid_rmsle: 0.10172 | valid_mae: 4.76125 | valid_rmse: 6.14068 | valid_mse: 37.70801|  0:00:18s
+epoch 151| loss: 16.87496| train_rmsle: 0.08672 | train_mae: 4.22896 | train_rmse: 5.24899 | train_mse: 27.5519 | valid_rmsle: 0.09991 | valid_mae: 4.64336 | valid_rmse: 6.019   | valid_mse: 36.22833|  0:00:18s
+epoch 152| loss: 18.05494| train_rmsle: 0.08628 | train_mae: 4.18239 | train_rmse: 5.21372 | train_mse: 27.18287| valid_rmsle: 0.09873 | valid_mae: 4.56281 | valid_rmse: 5.93167 | valid_mse: 35.18476|  0:00:18s
+epoch 153| loss: 17.8147 | train_rmsle: 0.08517 | train_mae: 4.07315 | train_rmse: 5.11752 | train_mse: 26.18898| valid_rmsle: 0.09666 | valid_mae: 4.44676 | valid_rmse: 5.78728 | valid_mse: 33.49262|  0:00:18s
+epoch 154| loss: 17.37502| train_rmsle: 0.08385 | train_mae: 3.97409 | train_rmse: 5.01481 | train_mse: 25.14829| valid_rmsle: 0.09483 | valid_mae: 4.32922 | valid_rmse: 5.66592 | valid_mse: 32.10261|  0:00:18s
+epoch 155| loss: 16.32641| train_rmsle: 0.08372 | train_mae: 3.95065 | train_rmse: 4.99657 | train_mse: 24.96567| valid_rmsle: 0.09419 | valid_mae: 4.28415 | valid_rmse: 5.63882 | valid_mse: 31.79626|  0:00:18s
+epoch 156| loss: 16.01496| train_rmsle: 0.08367 | train_mae: 3.91705 | train_rmse: 4.97926 | train_mse: 24.79301| valid_rmsle: 0.09416 | valid_mae: 4.25567 | valid_rmse: 5.63034 | valid_mse: 31.70069|  0:00:18s
+epoch 157| loss: 17.02252| train_rmsle: 0.08396 | train_mae: 3.9405  | train_rmse: 4.99552 | train_mse: 24.95518| valid_rmsle: 0.09494 | valid_mae: 4.32157 | valid_rmse: 5.67574 | valid_mse: 32.21406|  0:00:18s
+epoch 158| loss: 16.8407 | train_rmsle: 0.08453 | train_mae: 3.99482 | train_rmse: 5.03336 | train_mse: 25.33469| valid_rmsle: 0.0947  | valid_mae: 4.36503 | valid_rmse: 5.65118 | valid_mse: 31.9358 |  0:00:18s
+epoch 159| loss: 16.18391| train_rmsle: 0.08495 | train_mae: 4.04191 | train_rmse: 5.06922 | train_mse: 25.697  | valid_rmsle: 0.09448 | valid_mae: 4.3899  | valid_rmse: 5.62214 | valid_mse: 31.60846|  0:00:19s
+epoch 160| loss: 16.38411| train_rmsle: 0.08464 | train_mae: 4.05813 | train_rmse: 5.06999 | train_mse: 25.70475| valid_rmsle: 0.09324 | valid_mae: 4.39395 | valid_rmse: 5.55779 | valid_mse: 30.88901|  0:00:19s
+epoch 161| loss: 15.61529| train_rmsle: 0.08354 | train_mae: 3.99743 | train_rmse: 5.00203 | train_mse: 25.02032| valid_rmsle: 0.0921  | valid_mae: 4.36588 | valid_rmse: 5.48476 | valid_mse: 30.08262|  0:00:19s
+epoch 162| loss: 14.71409| train_rmsle: 0.08238 | train_mae: 3.91513 | train_rmse: 4.91673 | train_mse: 24.1742 | valid_rmsle: 0.09138 | valid_mae: 4.32056 | valid_rmse: 5.42744 | valid_mse: 29.45714|  0:00:19s
+epoch 163| loss: 15.36296| train_rmsle: 0.08146 | train_mae: 3.81569 | train_rmse: 4.83329 | train_mse: 23.36065| valid_rmsle: 0.09111 | valid_mae: 4.25475 | valid_rmse: 5.38135 | valid_mse: 28.95892|  0:00:19s
+epoch 164| loss: 14.90893| train_rmsle: 0.08193 | train_mae: 3.80919 | train_rmse: 4.84905 | train_mse: 23.51327| valid_rmsle: 0.09297 | valid_mae: 4.30003 | valid_rmse: 5.48123 | valid_mse: 30.04387|  0:00:19s
+epoch 165| loss: 15.11454| train_rmsle: 0.08306 | train_mae: 3.86155 | train_rmse: 4.92238 | train_mse: 24.22986| valid_rmsle: 0.09506 | valid_mae: 4.33981 | valid_rmse: 5.60233 | valid_mse: 31.38605|  0:00:19s
+epoch 166| loss: 16.86626| train_rmsle: 0.08444 | train_mae: 3.93406 | train_rmse: 5.01705 | train_mse: 25.17083| valid_rmsle: 0.09594 | valid_mae: 4.34535 | valid_rmse: 5.6581  | valid_mse: 32.01414|  0:00:19s
+epoch 167| loss: 15.32739| train_rmsle: 0.08522 | train_mae: 3.96488 | train_rmse: 5.066   | train_mse: 25.66435| valid_rmsle: 0.09517 | valid_mae: 4.3129  | valid_rmse: 5.60883 | valid_mse: 31.459  |  0:00:19s
+epoch 168| loss: 15.39351| train_rmsle: 0.08514 | train_mae: 3.97946 | train_rmse: 5.06343 | train_mse: 25.6383 | valid_rmsle: 0.09425 | valid_mae: 4.30739 | valid_rmse: 5.56606 | valid_mse: 30.981  |  0:00:20s
+epoch 169| loss: 13.88294| train_rmsle: 0.08511 | train_mae: 3.96834 | train_rmse: 5.05411 | train_mse: 25.54402| valid_rmsle: 0.09334 | valid_mae: 4.26814 | valid_rmse: 5.51363 | valid_mse: 30.40009|  0:00:20s
+epoch 170| loss: 15.55325| train_rmsle: 0.08486 | train_mae: 3.94645 | train_rmse: 5.03527 | train_mse: 25.3539 | valid_rmsle: 0.09241 | valid_mae: 4.23962 | valid_rmse: 5.45969 | valid_mse: 29.80817|  0:00:20s
+epoch 171| loss: 14.89224| train_rmsle: 0.08399 | train_mae: 3.89324 | train_rmse: 4.9731  | train_mse: 24.73173| valid_rmsle: 0.09176 | valid_mae: 4.19482 | valid_rmse: 5.41406 | valid_mse: 29.31203|  0:00:20s
+epoch 172| loss: 13.84503| train_rmsle: 0.08284 | train_mae: 3.84425 | train_rmse: 4.90393 | train_mse: 24.04857| valid_rmsle: 0.09121 | valid_mae: 4.14333 | valid_rmse: 5.36787 | valid_mse: 28.81408|  0:00:20s
+epoch 173| loss: 14.91173| train_rmsle: 0.08218 | train_mae: 3.8041  | train_rmse: 4.85957 | train_mse: 23.61543| valid_rmsle: 0.09096 | valid_mae: 4.13563 | valid_rmse: 5.34578 | valid_mse: 28.5774 |  0:00:20s
+epoch 174| loss: 14.89539| train_rmsle: 0.0816  | train_mae: 3.79195 | train_rmse: 4.83186 | train_mse: 23.34691| valid_rmsle: 0.09008 | valid_mae: 4.08407 | valid_rmse: 5.28989 | valid_mse: 27.98293|  0:00:20s
+epoch 175| loss: 15.19992| train_rmsle: 0.08129 | train_mae: 3.81    | train_rmse: 4.82454 | train_mse: 23.27621| valid_rmsle: 0.08916 | valid_mae: 4.06501 | valid_rmse: 5.23959 | valid_mse: 27.45333|  0:00:20s
+epoch 176| loss: 14.60196| train_rmsle: 0.08087 | train_mae: 3.82896 | train_rmse: 4.81298 | train_mse: 23.16478| valid_rmsle: 0.08805 | valid_mae: 4.05902 | valid_rmse: 5.19251 | valid_mse: 26.9622 |  0:00:20s
+epoch 177| loss: 14.66879| train_rmsle: 0.08068 | train_mae: 3.8323  | train_rmse: 4.80337 | train_mse: 23.07232| valid_rmsle: 0.08771 | valid_mae: 4.06557 | valid_rmse: 5.18052 | valid_mse: 26.83779|  0:00:21s
+epoch 178| loss: 14.53975| train_rmsle: 0.08039 | train_mae: 3.81553 | train_rmse: 4.77982 | train_mse: 22.8467 | valid_rmsle: 0.08667 | valid_mae: 4.0195  | valid_rmse: 5.12055 | valid_mse: 26.22004|  0:00:21s
+epoch 179| loss: 13.94673| train_rmsle: 0.07999 | train_mae: 3.76082 | train_rmse: 4.74065 | train_mse: 22.4738 | valid_rmsle: 0.08541 | valid_mae: 3.92837 | valid_rmse: 5.02182 | valid_mse: 25.21867|  0:00:21s
+epoch 180| loss: 15.75719| train_rmsle: 0.08073 | train_mae: 3.75272 | train_rmse: 4.76581 | train_mse: 22.71297| valid_rmsle: 0.08568 | valid_mae: 3.88964 | valid_rmse: 5.00711 | valid_mse: 25.07113|  0:00:21s
+epoch 181| loss: 14.37936| train_rmsle: 0.08199 | train_mae: 3.77806 | train_rmse: 4.82403 | train_mse: 23.27122| valid_rmsle: 0.08645 | valid_mae: 3.90144 | valid_rmse: 5.03742 | valid_mse: 25.37562|  0:00:21s
+epoch 182| loss: 14.05705| train_rmsle: 0.0832  | train_mae: 3.80858 | train_rmse: 4.88164 | train_mse: 23.83044| valid_rmsle: 0.08803 | valid_mae: 3.93637 | valid_rmse: 5.12405 | valid_mse: 26.2559 |  0:00:21s
+epoch 183| loss: 14.23435| train_rmsle: 0.08444 | train_mae: 3.86642 | train_rmse: 4.95648 | train_mse: 24.56673| valid_rmsle: 0.08919 | valid_mae: 4.01841 | valid_rmse: 5.22274 | valid_mse: 27.27701|  0:00:21s
+epoch 184| loss: 12.27049| train_rmsle: 0.08502 | train_mae: 3.9223  | train_rmse: 5.00516 | train_mse: 25.05165| valid_rmsle: 0.09021 | valid_mae: 4.14808 | valid_rmse: 5.32742 | valid_mse: 28.38139|  0:00:22s
+epoch 185| loss: 13.7423 | train_rmsle: 0.08465 | train_mae: 3.95157 | train_rmse: 5.01429 | train_mse: 25.14309| valid_rmsle: 0.09014 | valid_mae: 4.22976 | valid_rmse: 5.3729  | valid_mse: 28.8681 |  0:00:22s
+epoch 186| loss: 13.63819| train_rmsle: 0.08405 | train_mae: 3.9639  | train_rmse: 5.00093 | train_mse: 25.00926| valid_rmsle: 0.08965 | valid_mae: 4.22272 | valid_rmse: 5.36329 | valid_mse: 28.76488|  0:00:22s
+epoch 187| loss: 13.50233| train_rmsle: 0.08236 | train_mae: 3.88792 | train_rmse: 4.90237 | train_mse: 24.03327| valid_rmsle: 0.08773 | valid_mae: 4.12394 | valid_rmse: 5.23734 | valid_mse: 27.42978|  0:00:22s
+epoch 188| loss: 14.31852| train_rmsle: 0.08161 | train_mae: 3.84172 | train_rmse: 4.85284 | train_mse: 23.55001| valid_rmsle: 0.08634 | valid_mae: 3.99887 | valid_rmse: 5.11764 | valid_mse: 26.19024|  0:00:22s
+epoch 189| loss: 12.88144| train_rmsle: 0.08188 | train_mae: 3.80225 | train_rmse: 4.84813 | train_mse: 23.50432| valid_rmsle: 0.08749 | valid_mae: 3.89409 | valid_rmse: 5.12339 | valid_mse: 26.24912|  0:00:22s
+epoch 190| loss: 13.57806| train_rmsle: 0.08262 | train_mae: 3.77013 | train_rmse: 4.85732 | train_mse: 23.5936 | valid_rmsle: 0.08969 | valid_mae: 3.87458 | valid_rmse: 5.20578 | valid_mse: 27.10017|  0:00:22s
+epoch 191| loss: 13.20747| train_rmsle: 0.08325 | train_mae: 3.73365 | train_rmse: 4.85838 | train_mse: 23.60384| valid_rmsle: 0.09185 | valid_mae: 3.91705 | valid_rmse: 5.31185 | valid_mse: 28.21576|  0:00:22s
+epoch 192| loss: 13.41542| train_rmsle: 0.08374 | train_mae: 3.7051  | train_rmse: 4.8572  | train_mse: 23.5924 | valid_rmsle: 0.09273 | valid_mae: 3.91812 | valid_rmse: 5.35593 | valid_mse: 28.68597|  0:00:22s
+epoch 193| loss: 15.0426 | train_rmsle: 0.08249 | train_mae: 3.65479 | train_rmse: 4.78043 | train_mse: 22.85255| valid_rmsle: 0.09089 | valid_mae: 3.92053 | valid_rmse: 5.27951 | valid_mse: 27.87325|  0:00:23s
+epoch 194| loss: 13.93363| train_rmsle: 0.08082 | train_mae: 3.61603 | train_rmse: 4.69955 | train_mse: 22.08577| valid_rmsle: 0.08784 | valid_mae: 3.8403  | valid_rmse: 5.14169 | valid_mse: 26.437  |  0:00:23s
+epoch 195| loss: 13.09594| train_rmsle: 0.07926 | train_mae: 3.60802 | train_rmse: 4.6364  | train_mse: 21.49623| valid_rmsle: 0.08525 | valid_mae: 3.83786 | valid_rmse: 5.03476 | valid_mse: 25.34876|  0:00:23s
+epoch 196| loss: 13.67132| train_rmsle: 0.07828 | train_mae: 3.63585 | train_rmse: 4.61418 | train_mse: 21.29065| valid_rmsle: 0.0834  | valid_mae: 3.8626  | valid_rmse: 4.96132 | valid_mse: 24.61472|  0:00:23s
+epoch 197| loss: 13.6284 | train_rmsle: 0.07845 | train_mae: 3.70458 | train_rmse: 4.65598 | train_mse: 21.67814| valid_rmsle: 0.08226 | valid_mae: 3.87924 | valid_rmse: 4.91241 | valid_mse: 24.13179|  0:00:23s
+epoch 198| loss: 12.9527 | train_rmsle: 0.0781  | train_mae: 3.70551 | train_rmse: 4.64554 | train_mse: 21.58101| valid_rmsle: 0.08029 | valid_mae: 3.78144 | valid_rmse: 4.78662 | valid_mse: 22.91176|  0:00:23s
+epoch 199| loss: 13.18631| train_rmsle: 0.07695 | train_mae: 3.60982 | train_rmse: 4.55342 | train_mse: 20.73367| valid_rmsle: 0.07928 | valid_mae: 3.66353 | valid_rmse: 4.69043 | valid_mse: 22.00015|  0:00:23s
+epoch 200| loss: 13.01945| train_rmsle: 0.07554 | train_mae: 3.49355 | train_rmse: 4.43998 | train_mse: 19.71345| valid_rmsle: 0.0781  | valid_mae: 3.58231 | valid_rmse: 4.60165 | valid_mse: 21.17515|  0:00:23s
+epoch 201| loss: 13.84372| train_rmsle: 0.07501 | train_mae: 3.39487 | train_rmse: 4.36996 | train_mse: 19.09658| valid_rmsle: 0.07884 | valid_mae: 3.55926 | valid_rmse: 4.61268 | valid_mse: 21.2768 |  0:00:24s
+epoch 202| loss: 13.12572| train_rmsle: 0.07546 | train_mae: 3.38568 | train_rmse: 4.38136 | train_mse: 19.19631| valid_rmsle: 0.07964 | valid_mae: 3.5819  | valid_rmse: 4.6571  | valid_mse: 21.68858|  0:00:24s
+epoch 203| loss: 13.14586| train_rmsle: 0.07581 | train_mae: 3.40513 | train_rmse: 4.39965 | train_mse: 19.35695| valid_rmsle: 0.07983 | valid_mae: 3.61154 | valid_rmse: 4.67574 | valid_mse: 21.86255|  0:00:24s
+epoch 204| loss: 12.68505| train_rmsle: 0.07611 | train_mae: 3.46962 | train_rmse: 4.43846 | train_mse: 19.69989| valid_rmsle: 0.07951 | valid_mae: 3.67446 | valid_rmse: 4.66954 | valid_mse: 21.80462|  0:00:24s
+epoch 205| loss: 12.63071| train_rmsle: 0.07694 | train_mae: 3.5715  | train_rmse: 4.52047 | train_mse: 20.43466| valid_rmsle: 0.07969 | valid_mae: 3.73308 | valid_rmse: 4.69133 | valid_mse: 22.00861|  0:00:24s
+epoch 206| loss: 12.85754| train_rmsle: 0.07774 | train_mae: 3.65965 | train_rmse: 4.5999  | train_mse: 21.15904| valid_rmsle: 0.07918 | valid_mae: 3.74119 | valid_rmse: 4.67813 | valid_mse: 21.88489|  0:00:24s
+epoch 207| loss: 12.3435 | train_rmsle: 0.07773 | train_mae: 3.66991 | train_rmse: 4.60893 | train_mse: 21.24223| valid_rmsle: 0.07777 | valid_mae: 3.71133 | valid_rmse: 4.62668 | valid_mse: 21.4062 |  0:00:24s
+epoch 208| loss: 12.37018| train_rmsle: 0.07722 | train_mae: 3.62468 | train_rmse: 4.56941 | train_mse: 20.87947| valid_rmsle: 0.07657 | valid_mae: 3.65754 | valid_rmse: 4.56245 | valid_mse: 20.81594|  0:00:24s
+epoch 209| loss: 12.77048| train_rmsle: 0.07624 | train_mae: 3.54061 | train_rmse: 4.49331 | train_mse: 20.1898 | valid_rmsle: 0.07588 | valid_mae: 3.60554 | valid_rmse: 4.5129  | valid_mse: 20.36623|  0:00:24s
+epoch 210| loss: 12.47771| train_rmsle: 0.07546 | train_mae: 3.48273 | train_rmse: 4.43269 | train_mse: 19.64871| valid_rmsle: 0.07612 | valid_mae: 3.5779  | valid_rmse: 4.50493 | valid_mse: 20.29442|  0:00:25s
+epoch 211| loss: 12.59249| train_rmsle: 0.07495 | train_mae: 3.46334 | train_rmse: 4.40528 | train_mse: 19.40654| valid_rmsle: 0.07595 | valid_mae: 3.55546 | valid_rmse: 4.50119 | valid_mse: 20.26073|  0:00:25s
+epoch 212| loss: 12.26   | train_rmsle: 0.07473 | train_mae: 3.46289 | train_rmse: 4.39538 | train_mse: 19.31932| valid_rmsle: 0.07609 | valid_mae: 3.54777 | valid_rmse: 4.50996 | valid_mse: 20.33976|  0:00:25s
+epoch 213| loss: 13.09674| train_rmsle: 0.07461 | train_mae: 3.4544  | train_rmse: 4.38737 | train_mse: 19.24898| valid_rmsle: 0.07635 | valid_mae: 3.54891 | valid_rmse: 4.52617 | valid_mse: 20.48621|  0:00:25s
+epoch 214| loss: 13.56072| train_rmsle: 0.07481 | train_mae: 3.42998 | train_rmse: 4.38701 | train_mse: 19.24589| valid_rmsle: 0.0776  | valid_mae: 3.58846 | valid_rmse: 4.59036 | valid_mse: 21.07144|  0:00:25s
+epoch 215| loss: 12.10197| train_rmsle: 0.07564 | train_mae: 3.42569 | train_rmse: 4.4188  | train_mse: 19.52576| valid_rmsle: 0.0797  | valid_mae: 3.66171 | valid_rmse: 4.69281 | valid_mse: 22.02243|  0:00:25s
+epoch 216| loss: 13.15764| train_rmsle: 0.07633 | train_mae: 3.4294  | train_rmse: 4.44578 | train_mse: 19.76496| valid_rmsle: 0.08123 | valid_mae: 3.69657 | valid_rmse: 4.76467 | valid_mse: 22.70205|  0:00:25s
+epoch 217| loss: 12.27281| train_rmsle: 0.07672 | train_mae: 3.44999 | train_rmse: 4.46809 | train_mse: 19.96385| valid_rmsle: 0.08195 | valid_mae: 3.68202 | valid_rmse: 4.79627 | valid_mse: 23.0042 |  0:00:25s
+epoch 218| loss: 11.61497| train_rmsle: 0.0767  | train_mae: 3.46245 | train_rmse: 4.47197 | train_mse: 19.99851| valid_rmsle: 0.08161 | valid_mae: 3.66583 | valid_rmse: 4.77777 | valid_mse: 22.82708|  0:00:25s
+epoch 219| loss: 12.51367| train_rmsle: 0.07567 | train_mae: 3.43097 | train_rmse: 4.4171  | train_mse: 19.5108 | valid_rmsle: 0.08029 | valid_mae: 3.64054 | valid_rmse: 4.71305 | valid_mse: 22.21288|  0:00:26s
+epoch 220| loss: 11.74476| train_rmsle: 0.07437 | train_mae: 3.39387 | train_rmse: 4.35162 | train_mse: 18.93655| valid_rmsle: 0.07798 | valid_mae: 3.62285 | valid_rmse: 4.60463 | valid_mse: 21.20259|  0:00:26s
+epoch 221| loss: 11.73315| train_rmsle: 0.0737  | train_mae: 3.38481 | train_rmse: 4.3267  | train_mse: 18.72033| valid_rmsle: 0.07671 | valid_mae: 3.60723 | valid_rmse: 4.54569 | valid_mse: 20.66328|  0:00:26s
+epoch 222| loss: 11.45132| train_rmsle: 0.07364 | train_mae: 3.3725  | train_rmse: 4.31784 | train_mse: 18.64371| valid_rmsle: 0.07685 | valid_mae: 3.59366 | valid_rmse: 4.55269 | valid_mse: 20.727  |  0:00:26s
+epoch 223| loss: 12.36644| train_rmsle: 0.07394 | train_mae: 3.40887 | train_rmse: 4.34644 | train_mse: 18.89153| valid_rmsle: 0.07769 | valid_mae: 3.61917 | valid_rmse: 4.60405 | valid_mse: 21.19725|  0:00:26s
+epoch 224| loss: 12.7335 | train_rmsle: 0.0743  | train_mae: 3.44756 | train_rmse: 4.37804 | train_mse: 19.16723| valid_rmsle: 0.07876 | valid_mae: 3.63279 | valid_rmse: 4.66674 | valid_mse: 21.77845|  0:00:26s
+epoch 225| loss: 13.12436| train_rmsle: 0.07443 | train_mae: 3.45932 | train_rmse: 4.39038 | train_mse: 19.2754 | valid_rmsle: 0.07985 | valid_mae: 3.67561 | valid_rmse: 4.73357 | valid_mse: 22.40669|  0:00:26s
+epoch 226| loss: 13.50886| train_rmsle: 0.07421 | train_mae: 3.43569 | train_rmse: 4.37297 | train_mse: 19.12289| valid_rmsle: 0.08053 | valid_mae: 3.6927  | valid_rmse: 4.77182 | valid_mse: 22.77023|  0:00:26s
+epoch 227| loss: 11.37858| train_rmsle: 0.07447 | train_mae: 3.42222 | train_rmse: 4.37361 | train_mse: 19.12847| valid_rmsle: 0.08082 | valid_mae: 3.6935  | valid_rmse: 4.77856 | valid_mse: 22.8346 |  0:00:26s
+epoch 228| loss: 13.28828| train_rmsle: 0.07475 | train_mae: 3.42659 | train_rmse: 4.38774 | train_mse: 19.25228| valid_rmsle: 0.08036 | valid_mae: 3.69327 | valid_rmse: 4.74724 | valid_mse: 22.5363 |  0:00:26s
+epoch 229| loss: 12.40446| train_rmsle: 0.07489 | train_mae: 3.45287 | train_rmse: 4.40842 | train_mse: 19.43421| valid_rmsle: 0.07902 | valid_mae: 3.67069 | valid_rmse: 4.6762  | valid_mse: 21.86684|  0:00:27s
+epoch 230| loss: 11.50504| train_rmsle: 0.07495 | train_mae: 3.4843  | train_rmse: 4.4267  | train_mse: 19.59566| valid_rmsle: 0.07852 | valid_mae: 3.73515 | valid_rmse: 4.65952 | valid_mse: 21.71111|  0:00:27s
+epoch 231| loss: 11.7611 | train_rmsle: 0.07484 | train_mae: 3.48077 | train_rmse: 4.42363 | train_mse: 19.56852| valid_rmsle: 0.07865 | valid_mae: 3.77135 | valid_rmse: 4.66946 | valid_mse: 21.80383|  0:00:27s
+epoch 232| loss: 12.65569| train_rmsle: 0.07428 | train_mae: 3.42401 | train_rmse: 4.37457 | train_mse: 19.13689| valid_rmsle: 0.07853 | valid_mae: 3.72244 | valid_rmse: 4.65411 | valid_mse: 21.66075|  0:00:27s
+epoch 233| loss: 11.69133| train_rmsle: 0.07381 | train_mae: 3.36621 | train_rmse: 4.32727 | train_mse: 18.72524| valid_rmsle: 0.07905 | valid_mae: 3.6664  | valid_rmse: 4.67568 | valid_mse: 21.86201|  0:00:27s
+epoch 234| loss: 10.67435| train_rmsle: 0.07376 | train_mae: 3.33119 | train_rmse: 4.30726 | train_mse: 18.55246| valid_rmsle: 0.08056 | valid_mae: 3.64659 | valid_rmse: 4.75953 | valid_mse: 22.65313|  0:00:27s
+epoch 235| loss: 12.17879| train_rmsle: 0.07331 | train_mae: 3.29386 | train_rmse: 4.27548 | train_mse: 18.27976| valid_rmsle: 0.0807  | valid_mae: 3.61892 | valid_rmse: 4.76834 | valid_mse: 22.7371 |  0:00:27s
+epoch 236| loss: 11.5729 | train_rmsle: 0.07234 | train_mae: 3.25507 | train_rmse: 4.22363 | train_mse: 17.83901| valid_rmsle: 0.07909 | valid_mae: 3.56498 | valid_rmse: 4.68153 | valid_mse: 21.91668|  0:00:27s
+epoch 237| loss: 11.51582| train_rmsle: 0.07106 | train_mae: 3.22575 | train_rmse: 4.16393 | train_mse: 17.33833| valid_rmsle: 0.0766  | valid_mae: 3.49532 | valid_rmse: 4.54909 | valid_mse: 20.69423|  0:00:27s
+epoch 238| loss: 11.50056| train_rmsle: 0.07033 | train_mae: 3.23729 | train_rmse: 4.13709 | train_mse: 17.11553| valid_rmsle: 0.07509 | valid_mae: 3.47079 | valid_rmse: 4.46179 | valid_mse: 19.90757|  0:00:28s
+epoch 239| loss: 11.64487| train_rmsle: 0.06999 | train_mae: 3.2541  | train_rmse: 4.12763 | train_mse: 17.03733| valid_rmsle: 0.07411 | valid_mae: 3.44097 | valid_rmse: 4.40613 | valid_mse: 19.41399|  0:00:28s
+epoch 240| loss: 11.11151| train_rmsle: 0.06985 | train_mae: 3.25156 | train_rmse: 4.12175 | train_mse: 16.98882| valid_rmsle: 0.07352 | valid_mae: 3.42639 | valid_rmse: 4.37245 | valid_mse: 19.11832|  0:00:28s
+epoch 241| loss: 12.06904| train_rmsle: 0.07005 | train_mae: 3.23778 | train_rmse: 4.12744 | train_mse: 17.03574| valid_rmsle: 0.07387 | valid_mae: 3.39764 | valid_rmse: 4.38582 | valid_mse: 19.23543|  0:00:28s
+epoch 242| loss: 11.65746| train_rmsle: 0.07073 | train_mae: 3.23266 | train_rmse: 4.15166 | train_mse: 17.23625| valid_rmsle: 0.07554 | valid_mae: 3.41927 | valid_rmse: 4.47605 | valid_mse: 20.03506|  0:00:28s
+epoch 243| loss: 10.17151| train_rmsle: 0.07209 | train_mae: 3.25683 | train_rmse: 4.21519 | train_mse: 17.76781| valid_rmsle: 0.07748 | valid_mae: 3.46942 | valid_rmse: 4.58017 | valid_mse: 20.97797|  0:00:28s
+epoch 244| loss: 11.10877| train_rmsle: 0.07292 | train_mae: 3.2775  | train_rmse: 4.25497 | train_mse: 18.10475| valid_rmsle: 0.07785 | valid_mae: 3.51617 | valid_rmse: 4.58963 | valid_mse: 21.06468|  0:00:28s
+epoch 245| loss: 12.10326| train_rmsle: 0.07286 | train_mae: 3.28917 | train_rmse: 4.25367 | train_mse: 18.09369| valid_rmsle: 0.0767  | valid_mae: 3.53873 | valid_rmse: 4.51598 | valid_mse: 20.39407|  0:00:28s
+epoch 246| loss: 11.75188| train_rmsle: 0.07302 | train_mae: 3.31067 | train_rmse: 4.26925 | train_mse: 18.22654| valid_rmsle: 0.07599 | valid_mae: 3.55305 | valid_rmse: 4.4754  | valid_mse: 20.02924|  0:00:29s
+epoch 247| loss: 11.04004| train_rmsle: 0.07276 | train_mae: 3.32988 | train_rmse: 4.26694 | train_mse: 18.20681| valid_rmsle: 0.07551 | valid_mae: 3.55448 | valid_rmse: 4.45491 | valid_mse: 19.84623|  0:00:29s
+epoch 248| loss: 10.94206| train_rmsle: 0.07227 | train_mae: 3.33645 | train_rmse: 4.24775 | train_mse: 18.04341| valid_rmsle: 0.0754  | valid_mae: 3.55694 | valid_rmse: 4.44991 | valid_mse: 19.80174|  0:00:29s
+epoch 249| loss: 10.95737| train_rmsle: 0.07162 | train_mae: 3.3144  | train_rmse: 4.21301 | train_mse: 17.74944| valid_rmsle: 0.07535 | valid_mae: 3.52662 | valid_rmse: 4.4463  | valid_mse: 19.76962|  0:00:29s
+epoch 250| loss: 10.9357 | train_rmsle: 0.07086 | train_mae: 3.27    | train_rmse: 4.16486 | train_mse: 17.34609| valid_rmsle: 0.07583 | valid_mae: 3.50537 | valid_rmse: 4.47028 | valid_mse: 19.98338|  0:00:29s
+epoch 251| loss: 10.88457| train_rmsle: 0.07027 | train_mae: 3.20802 | train_rmse: 4.11464 | train_mse: 16.93024| valid_rmsle: 0.07718 | valid_mae: 3.48416 | valid_rmse: 4.54165 | valid_mse: 20.62659|  0:00:29s
+epoch 252| loss: 11.16579| train_rmsle: 0.07017 | train_mae: 3.17052 | train_rmse: 4.09241 | train_mse: 16.7478 | valid_rmsle: 0.07802 | valid_mae: 3.48145 | valid_rmse: 4.59838 | valid_mse: 21.14512|  0:00:29s
+epoch 253| loss: 11.08871| train_rmsle: 0.07016 | train_mae: 3.15696 | train_rmse: 4.09043 | train_mse: 16.73159| valid_rmsle: 0.07868 | valid_mae: 3.48927 | valid_rmse: 4.64274 | valid_mse: 21.55499|  0:00:29s
+epoch 254| loss: 10.26865| train_rmsle: 0.06947 | train_mae: 3.15297 | train_rmse: 4.062   | train_mse: 16.49981| valid_rmsle: 0.07803 | valid_mae: 3.47504 | valid_rmse: 4.6142  | valid_mse: 21.29086|  0:00:29s
+epoch 255| loss: 9.95653 | train_rmsle: 0.06897 | train_mae: 3.17544 | train_rmse: 4.05301 | train_mse: 16.42687| valid_rmsle: 0.07662 | valid_mae: 3.45688 | valid_rmse: 4.54352 | valid_mse: 20.64362|  0:00:30s
+epoch 256| loss: 10.21898| train_rmsle: 0.06888 | train_mae: 3.21422 | train_rmse: 4.07021 | train_mse: 16.56657| valid_rmsle: 0.07636 | valid_mae: 3.54037 | valid_rmse: 4.54343 | valid_mse: 20.64276|  0:00:30s
+epoch 257| loss: 12.25924| train_rmsle: 0.06934 | train_mae: 3.28582 | train_rmse: 4.12019 | train_mse: 16.97596| valid_rmsle: 0.07702 | valid_mae: 3.65713 | valid_rmse: 4.61124 | valid_mse: 21.26349|  0:00:30s
+epoch 258| loss: 10.48381| train_rmsle: 0.06986 | train_mae: 3.30009 | train_rmse: 4.14968 | train_mse: 17.21988| valid_rmsle: 0.07745 | valid_mae: 3.6503  | valid_rmse: 4.65009 | valid_mse: 21.62336|  0:00:30s
+epoch 259| loss: 11.35334| train_rmsle: 0.06989 | train_mae: 3.2744  | train_rmse: 4.13604 | train_mse: 17.10684| valid_rmsle: 0.07811 | valid_mae: 3.61296 | valid_rmse: 4.68526 | valid_mse: 21.9517 |  0:00:30s
+epoch 260| loss: 10.9852 | train_rmsle: 0.06954 | train_mae: 3.21072 | train_rmse: 4.09071 | train_mse: 16.73389| valid_rmsle: 0.0788  | valid_mae: 3.58733 | valid_rmse: 4.71477 | valid_mse: 22.22905|  0:00:30s
+epoch 261| loss: 10.38988| train_rmsle: 0.06909 | train_mae: 3.16547 | train_rmse: 4.0501  | train_mse: 16.40334| valid_rmsle: 0.07866 | valid_mae: 3.58249 | valid_rmse: 4.69456 | valid_mse: 22.03887|  0:00:30s
+epoch 262| loss: 12.25178| train_rmsle: 0.06858 | train_mae: 3.10585 | train_rmse: 4.00451 | train_mse: 16.03612| valid_rmsle: 0.07943 | valid_mae: 3.59269 | valid_rmse: 4.71658 | valid_mse: 22.24614|  0:00:30s
+epoch 263| loss: 11.45504| train_rmsle: 0.0679  | train_mae: 3.07027 | train_rmse: 3.9597  | train_mse: 15.67926| valid_rmsle: 0.08    | valid_mae: 3.61789 | valid_rmse: 4.73603 | valid_mse: 22.43002|  0:00:30s
+epoch 264| loss: 10.8672 | train_rmsle: 0.06763 | train_mae: 3.063   | train_rmse: 3.94767 | train_mse: 15.58413| valid_rmsle: 0.08001 | valid_mae: 3.64209 | valid_rmse: 4.73391 | valid_mse: 22.40989|  0:00:31s
+epoch 265| loss: 11.67145| train_rmsle: 0.06715 | train_mae: 3.06052 | train_rmse: 3.93157 | train_mse: 15.45724| valid_rmsle: 0.07923 | valid_mae: 3.63088 | valid_rmse: 4.68545 | valid_mse: 21.95348|  0:00:31s
+epoch 266| loss: 10.59125| train_rmsle: 0.06673 | train_mae: 3.06266 | train_rmse: 3.91424 | train_mse: 15.32127| valid_rmsle: 0.07816 | valid_mae: 3.59053 | valid_rmse: 4.62146 | valid_mse: 21.35786|  0:00:31s
+epoch 267| loss: 10.51549| train_rmsle: 0.06584 | train_mae: 3.03859 | train_rmse: 3.86116 | train_mse: 14.90859| valid_rmsle: 0.07649 | valid_mae: 3.51789 | valid_rmse: 4.52821 | valid_mse: 20.50467|  0:00:31s
+epoch 268| loss: 10.51588| train_rmsle: 0.06538 | train_mae: 3.0248  | train_rmse: 3.83537 | train_mse: 14.71008| valid_rmsle: 0.07555 | valid_mae: 3.47375 | valid_rmse: 4.47963 | valid_mse: 20.06709|  0:00:31s
+epoch 269| loss: 11.23549| train_rmsle: 0.06547 | train_mae: 3.00846 | train_rmse: 3.83121 | train_mse: 14.67817| valid_rmsle: 0.07553 | valid_mae: 3.45302 | valid_rmse: 4.48555 | valid_mse: 20.12018|  0:00:31s
+epoch 270| loss: 9.92158 | train_rmsle: 0.06587 | train_mae: 2.99411 | train_rmse: 3.84161 | train_mse: 14.75795| valid_rmsle: 0.0763  | valid_mae: 3.46591 | valid_rmse: 4.5342  | valid_mse: 20.55895|  0:00:31s
+epoch 271| loss: 11.10202| train_rmsle: 0.06649 | train_mae: 2.9994  | train_rmse: 3.86702 | train_mse: 14.95384| valid_rmsle: 0.07695 | valid_mae: 3.49293 | valid_rmse: 4.58259 | valid_mse: 21.00012|  0:00:31s
+epoch 272| loss: 10.34301| train_rmsle: 0.06739 | train_mae: 3.01147 | train_rmse: 3.91328 | train_mse: 15.3138 | valid_rmsle: 0.07778 | valid_mae: 3.52399 | valid_rmse: 4.64335 | valid_mse: 21.56074|  0:00:31s
+epoch 273| loss: 11.01993| train_rmsle: 0.0678  | train_mae: 3.02146 | train_rmse: 3.93536 | train_mse: 15.48705| valid_rmsle: 0.07825 | valid_mae: 3.56138 | valid_rmse: 4.67616 | valid_mse: 21.86648|  0:00:31s
+epoch 274| loss: 11.97001| train_rmsle: 0.06759 | train_mae: 3.02349 | train_rmse: 3.92811 | train_mse: 15.43008| valid_rmsle: 0.07749 | valid_mae: 3.53776 | valid_rmse: 4.62735 | valid_mse: 21.41241|  0:00:32s
+epoch 275| loss: 10.92892| train_rmsle: 0.06693 | train_mae: 3.02436 | train_rmse: 3.90352 | train_mse: 15.23751| valid_rmsle: 0.0764  | valid_mae: 3.54463 | valid_rmse: 4.56234 | valid_mse: 20.81492|  0:00:32s
+epoch 276| loss: 11.2649 | train_rmsle: 0.06641 | train_mae: 3.04761 | train_rmse: 3.89792 | train_mse: 15.19379| valid_rmsle: 0.07519 | valid_mae: 3.55251 | valid_rmse: 4.50008 | valid_mse: 20.25069|  0:00:32s
+epoch 277| loss: 9.88693 | train_rmsle: 0.06637 | train_mae: 3.09339 | train_rmse: 3.92114 | train_mse: 15.3753 | valid_rmsle: 0.07411 | valid_mae: 3.55385 | valid_rmse: 4.45536 | valid_mse: 19.85027|  0:00:32s
+epoch 278| loss: 9.91337 | train_rmsle: 0.06596 | train_mae: 3.08838 | train_rmse: 3.89964 | train_mse: 15.20718| valid_rmsle: 0.07332 | valid_mae: 3.50329 | valid_rmse: 4.41242 | valid_mse: 19.46942|  0:00:32s
+epoch 279| loss: 10.86623| train_rmsle: 0.06531 | train_mae: 3.05587 | train_rmse: 3.85237 | train_mse: 14.84072| valid_rmsle: 0.07296 | valid_mae: 3.44425 | valid_rmse: 4.3868  | valid_mse: 19.244  |  0:00:32s
+epoch 280| loss: 10.90561| train_rmsle: 0.06494 | train_mae: 3.00847 | train_rmse: 3.80889 | train_mse: 14.50763| valid_rmsle: 0.07311 | valid_mae: 3.38709 | valid_rmse: 4.38573 | valid_mse: 19.23464|  0:00:32s
+epoch 281| loss: 10.47639| train_rmsle: 0.06497 | train_mae: 2.97857 | train_rmse: 3.79381 | train_mse: 14.39303| valid_rmsle: 0.07366 | valid_mae: 3.35295 | valid_rmse: 4.4022  | valid_mse: 19.37937|  0:00:32s
+epoch 282| loss: 10.21546| train_rmsle: 0.0654  | train_mae: 2.98053 | train_rmse: 3.8106  | train_mse: 14.52068| valid_rmsle: 0.07413 | valid_mae: 3.35697 | valid_rmse: 4.4228  | valid_mse: 19.56118|  0:00:32s
+epoch 283| loss: 10.4421 | train_rmsle: 0.06582 | train_mae: 2.99667 | train_rmse: 3.83388 | train_mse: 14.6986 | valid_rmsle: 0.07424 | valid_mae: 3.39995 | valid_rmse: 4.42101 | valid_mse: 19.54531|  0:00:33s
+epoch 284| loss: 10.24764| train_rmsle: 0.06616 | train_mae: 3.01216 | train_rmse: 3.85865 | train_mse: 14.88921| valid_rmsle: 0.07377 | valid_mae: 3.43352 | valid_rmse: 4.40547 | valid_mse: 19.40817|  0:00:33s
+epoch 285| loss: 9.47266 | train_rmsle: 0.06603 | train_mae: 3.00604 | train_rmse: 3.86587 | train_mse: 14.94498| valid_rmsle: 0.0733  | valid_mae: 3.49342 | valid_rmse: 4.40491 | valid_mse: 19.40319|  0:00:33s
+epoch 286| loss: 10.42808| train_rmsle: 0.0658  | train_mae: 3.01471 | train_rmse: 3.87444 | train_mse: 15.01132| valid_rmsle: 0.07325 | valid_mae: 3.57595 | valid_rmse: 4.42816 | valid_mse: 19.60858|  0:00:33s
+epoch 287| loss: 10.04955| train_rmsle: 0.06489 | train_mae: 2.97798 | train_rmse: 3.82622 | train_mse: 14.63998| valid_rmsle: 0.07341 | valid_mae: 3.63436 | valid_rmse: 4.45596 | valid_mse: 19.85558|  0:00:33s
+epoch 288| loss: 11.36422| train_rmsle: 0.06388 | train_mae: 2.95798 | train_rmse: 3.77826 | train_mse: 14.27527| valid_rmsle: 0.07328 | valid_mae: 3.63016 | valid_rmse: 4.45939 | valid_mse: 19.88618|  0:00:33s
+epoch 289| loss: 9.89359 | train_rmsle: 0.06306 | train_mae: 2.9206  | train_rmse: 3.72919 | train_mse: 13.90686| valid_rmsle: 0.07352 | valid_mae: 3.62631 | valid_rmse: 4.4623  | valid_mse: 19.91211|  0:00:33s
+epoch 290| loss: 9.8926  | train_rmsle: 0.06238 | train_mae: 2.90209 | train_rmse: 3.68634 | train_mse: 13.58912| valid_rmsle: 0.07362 | valid_mae: 3.61899 | valid_rmse: 4.44919 | valid_mse: 19.79531|  0:00:33s
+
+Early stopping occurred at epoch 290 with best_epoch = 240 and best_valid_mse = 19.11832
+(100, 1)
+(100, 1)
+=====preds=====
+[[68.311874]
+ [72.08033 ]
+ [67.554214]
+ [54.80716 ]
+ [54.66202 ]
+ [71.74724 ]
+ [60.279778]
+ [60.22223 ]
+ [53.32611 ]
+ [68.3855  ]
+ [67.065   ]
+ [53.147278]
+ [52.47445 ]
+ [70.56143 ]
+ [59.27714 ]
+ [57.932247]
+ [59.45622 ]
+ [63.961746]
+ [69.220894]
+ [55.776276]
+ [60.797966]
+ [60.219414]
+ [70.79089 ]
+ [57.04428 ]
+ [55.307327]
+ [59.045254]
+ [59.845413]
+ [59.507854]
+ [68.402664]
+ [72.79692 ]
+ [57.552647]
+ [64.311905]
+ [60.985485]
+ [66.87865 ]
+ [67.285   ]
+ [61.34539 ]
+ [58.996822]
+ [58.867798]
+ [69.10215 ]
+ [69.95302 ]
+ [61.744324]
+ [72.87758 ]
+ [64.06974 ]
+ [60.234043]
+ [59.218273]
+ [51.0492  ]
+ [68.6435  ]
+ [61.22655 ]
+ [60.940563]
+ [58.121067]
+ [70.83483 ]
+ [49.7147  ]
+ [60.943222]
+ [59.248146]
+ [70.41303 ]
+ [60.031868]
+ [68.30167 ]
+ [63.058052]
+ [49.334908]
+ [75.195274]
+ [67.524124]
+ [52.816757]
+ [64.08436 ]
+ [58.476658]
+ [65.46884 ]
+ [58.615738]
+ [65.79494 ]
+ [64.8419  ]
+ [68.26016 ]
+ [66.90955 ]
+ [57.331215]
+ [50.309105]
+ [61.494568]
+ [68.165115]
+ [56.70011 ]
+ [68.590546]
+ [69.89316 ]
+ [66.24805 ]
+ [68.07269 ]
+ [50.30221 ]
+ [61.536293]
+ [54.409466]
+ [67.09935 ]
+ [58.472458]
+ [53.9937  ]
+ [62.995255]
+ [70.67423 ]
+ [63.224957]
+ [57.73441 ]
+ [68.669014]
+ [53.667637]
+ [65.782364]
+ [63.351627]
+ [62.1214  ]
+ [55.935028]
+ [67.53819 ]
+ [61.09996 ]
+ [66.415596]
+ [55.082977]
+ [64.404465]]
+=====preds - Y_test=====
+[[-6.68812561]
+ [ 0.0803299 ]
+ [ 1.55421448]
+ [ 5.80715942]
+ [ 2.66202164]
+ [ 1.74723816]
+ [ 7.27977753]
+ [-1.777771  ]
+ [ 1.32611084]
+ [-1.61450195]
+ [11.06500244]
+ [11.14727783]
+ [-1.52555084]
+ [ 2.56143188]
+ [ 3.27714157]
+ [-0.06775284]
+ [-2.54378128]
+ [ 3.96174622]
+ [ 0.22089386]
+ [-3.22372437]
+ [-1.202034  ]
+ [ 5.21941376]
+ [ 0.79089355]
+ [ 0.04428101]
+ [ 0.30732727]
+ [ 3.04525375]
+ [-0.15458679]
+ [-6.49214554]
+ [ 3.40266418]
+ [-1.20307922]
+ [ 2.55264664]
+ [ 5.31190491]
+ [-0.01451492]
+ [ 5.87864685]
+ [-1.71499634]
+ [ 1.34539032]
+ [ 1.99682236]
+ [-3.13220215]
+ [-1.89785004]
+ [-2.04698181]
+ [-4.25567627]
+ [ 3.87757874]
+ [ 5.0697403 ]
+ [ 0.23404312]
+ [ 3.21827316]
+ [ 3.04919815]
+ [ 3.64350128]
+ [ 4.22655106]
+ [-1.0594368 ]
+ [-0.87893295]
+ [ 4.83483124]
+ [ 5.71469879]
+ [-3.05677795]
+ [-6.75185394]
+ [-8.58696747]
+ [-5.96813202]
+ [ 1.30166626]
+ [ 5.05805206]
+ [-2.66509247]
+ [-0.80472565]
+ [-4.47587585]
+ [-1.1832428 ]
+ [12.08435822]
+ [ 4.47665787]
+ [-3.53115845]
+ [ 0.61573792]
+ [11.79493713]
+ [ 5.84190369]
+ [-7.73983765]
+ [-4.09044647]
+ [-1.6687851 ]
+ [ 9.30910492]
+ [13.49456787]
+ [-2.83488464]
+ [ 2.70011139]
+ [ 0.59054565]
+ [ 5.89315796]
+ [-2.75195312]
+ [-2.92730713]
+ [ 6.30221176]
+ [-0.46370697]
+ [ 6.40946579]
+ [-1.90065002]
+ [ 0.47245789]
+ [ 1.99369812]
+ [-1.00474548]
+ [-4.32576752]
+ [ 1.22495651]
+ [-2.26559067]
+ [-0.33098602]
+ [-0.33236313]
+ [-0.21763611]
+ [ 0.35162735]
+ [ 0.12139893]
+ [-0.06497192]
+ [10.53819275]
+ [-3.90003967]
+ [ 0.41559601]
+ [ 1.08297729]
+ [-1.59553528]]
+======para=====
+{'cat_dims': [], 'cat_emb_dim': [], 'cat_idxs': [], 'clip_value': 1, 'device_name': 'auto', 'epsilon': 1e-15, 'gamma': 0.8, 'grouped_features': [], 'input_dim': 494, 'lambda_sparse': 0.001, 'mask_type': 'sparsemax', 'momentum': 0.02, 'n_a': 8, 'n_d': 8, 'n_indep_decoder': 1, 'n_independent': 2, 'n_shared': 2, 'n_shared_decoder': 1, 'n_steps': 3, 'optimizer_fn': <class 'torch.optim.adam.Adam'>, 'optimizer_params': {'lr': 0.01}, 'output_dim': 1, 'scheduler_fn': None, 'scheduler_params': {}, 'seed': 0, 'verbose': 1}
+======scores=====
